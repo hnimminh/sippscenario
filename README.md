@@ -1,7 +1,6 @@
 # SIPp Scenario
-<img src="https://user-images.githubusercontent.com/58973699/96362628-d39ce080-1158-11eb-8adc-fcb92bfd4d35.png" width="">
-
 SIPp Call Scenario for Performance Test
+<img src="https://user-images.githubusercontent.com/58973699/96362628-d39ce080-1158-11eb-8adc-fcb92bfd4d35.png" width="">
 
 ## Installation
 ```shell
