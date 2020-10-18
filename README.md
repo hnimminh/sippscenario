@@ -1,5 +1,5 @@
 # SIPp Scenario
-<img src="" width="">
+<img src="https://en.wikipedia.org/wiki/File:SIP_signaling.png" width="">
 
 SIPp Call Scenario for Performance Test
 
