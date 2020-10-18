@@ -1,5 +1,5 @@
 # SIPp Scenario
-<img src="https://en.wikipedia.org/wiki/File:SIP_signaling.png" width="">
+<img src="https://user-images.githubusercontent.com/58973699/96362628-d39ce080-1158-11eb-8adc-fcb92bfd4d35.png" width="">
 
 SIPp Call Scenario for Performance Test
 
@@ -13,7 +13,6 @@ cd sipp-3.6.1/
 yum install make gcc gcc-c++ ncurses ncurses.x86_64 ncurses-devel ncurses-devel.x86_64 openssl libnet libpcap libpcap-devel libpcap.x86_64 libpcap-devel.x86_64 gsl gsl-devel cmake lksctp-tools
 ./build.sh --none
 ```
-
 
 # Run
 ```shel
