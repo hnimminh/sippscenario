@@ -1,5 +1,5 @@
 # SIPp Scenario
-SIPp Call Scenario for Performance Test
+SIPp Call Scenario for System Performance Test
 <img src="https://user-images.githubusercontent.com/58973699/96362628-d39ce080-1158-11eb-8adc-fcb92bfd4d35.png" width="">
 
 ## Installation
@@ -13,8 +13,11 @@ yum install make gcc gcc-c++ ncurses ncurses.x86_64 ncurses-devel ncurses-devel.
 ./build.sh --none
 ```
 
-# Run
+## Run
 ```shel
 sipp -sn uac 1.1.1.1 -s 112233445566 -d 120000 -l 50 -m 1000 -r 20 -trace_err
 sipp -sf basic/uac.xml 1.1.1.1:5070 -s 112233445566 -d 120000 -l 50 -m 1000 -r 20 -trace_err
 ``` 
+
+## Reference
+[SIPp Doc](http://sipp.sourceforge.net/doc/reference.html)
